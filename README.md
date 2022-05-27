@@ -22,6 +22,7 @@
 ![Simulator Screen Shot - iPod touch (7th generation) - 2022-05-27 at 17 31 08](https://user-images.githubusercontent.com/60488219/170721584-556beff3-312f-4a7f-808d-156a272cdd33.png)
 
 Примечание:
+* По ТЗ применил MVVM паттерн;
 * Верстал интерфейс как кодом так и в Storyboard используя Autolayout;
 * Для работа с сетью использовал URLSession, а также Alamofire (Чтобы показать умения 
 пользоваться как нативными средствами для работы с сетью так и сторонними фреймворками);
